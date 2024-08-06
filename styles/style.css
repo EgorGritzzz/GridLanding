@@ -327,6 +327,7 @@ input::placeholder {
     top: 410px;
     height: 70px;
     text-align: center;
+    border-radius: 0 0 22px 22px;
 }
 
 .item_more-info button {
@@ -433,9 +434,10 @@ padding-right:10px;
           position: absolute;
           width:90%;
           background-color:#F5F5F5B2;
-          top: 310px;
+          top: 322px;
           height: 70px;
           text-align: center;
+          border-radius: 0 0 22px 22px;
       }
       
       .item_more-info button {
