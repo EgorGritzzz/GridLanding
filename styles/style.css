@@ -30,6 +30,11 @@ header {
     color: #FFFFFF;
 }
 
+.nav_info p:hover {
+    cursor: pointer;
+   
+}
+
 @media screen and (max-width:770px) {
     .nav_info {
         display:none;
@@ -78,6 +83,13 @@ header {
     text-align: left;
     color: #231815;
 }
+
+
+.nav_info2-about p:hover {
+    cursor: pointer;
+    color: #E45302;
+}
+
 
 
 .nav_info2-order {
@@ -157,7 +169,7 @@ input::placeholder {
    opacity: 0px;
    background: #FFFFFF;
    border: 0.4px solid #D9D9D9;
-   font-family: Inter;
+   font-family: "Inter", sans-serif;
    font-size: 12px;
    font-weight: 400;
    line-height: 16.8px;
@@ -805,13 +817,14 @@ padding-right:10px;
     .grid_market--container {
         display:grid;
         grid-template-columns: repeat(2,1fr);
-        gap:20px;
-        
+        gap:60px;
+        width: 100%;
+       
     }
 
 
     .grid_market--container_item {
-        width: 200px;
+        width: 170px;
         height: 340px;
         
         opacity: 0px;
@@ -820,14 +833,14 @@ padding-right:10px;
     }
 
     .grid_market--container_item img {
-      width: 70%;
+      width: 100%;
     }
     
     .item_more-info {
         position: absolute;
-        width:70%;
+        width:100%;
         background-color:#F5F5F5B2;
-        top: 44%;
+        top: 57%;
         height: 50px;
         text-align: center;
         border-radius: 0 0 3px 3px;
@@ -923,6 +936,11 @@ footer {
     color:#808080;
 }
 
+.footer_container--block1 p:hover {
+    cursor: pointer;
+    
+}
+
 .block1__politic {
     text-decoration: underline;
 }
@@ -959,6 +977,11 @@ text-align: left;
 color:#F5F5F5;
 }
 
+.block2--info p:hover {
+    cursor:pointer;
+    color:#E45302;
+}
+
 .block2--info2 {
     display: flex;
     flex-direction: column;
@@ -981,6 +1004,11 @@ font-weight: 400;
 line-height: 24px;
 text-align: left;
 color:#F5F5F5;
+}
+
+.block2--info2 p:hover {
+    cursor: pointer;
+    color: #E45302;
 }
 
 .footer_container--block3 {
@@ -1007,6 +1035,10 @@ text-align: left;
 color:#F5F5F5; 
 }
 
+.footer_container--block3 p:hover {
+    cursor:pointer;
+    color: #E45302;
+}
 
 .footer_container--block4 {
     display: flex;
@@ -1021,6 +1053,11 @@ font-weight: 400;
 line-height: 24px;
 text-align: left;
 color:#808080; 
+}
+
+.block4--garantee p:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .block4--payment {
