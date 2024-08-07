@@ -22,7 +22,7 @@ header {
 }
 
 .nav_info p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
@@ -71,7 +71,7 @@ header {
 }
 
 .nav_info2-about p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     font-weight: 600;
     line-height: 16px;
@@ -112,7 +112,7 @@ border: 1px solid #F5F5F5;
 }
 
 input::placeholder {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
@@ -136,7 +136,7 @@ input::placeholder {
 }
 
 .nav_info2-order--bucket p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
@@ -183,7 +183,7 @@ input::placeholder {
     text-align: center;
     font-size: 14px;
     color: white;
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     padding: 13px;
     position: absolute;
     top:30px;
@@ -337,7 +337,7 @@ padding: 10px;
 gap: 8px;
 margin-top:10px;
 opacity: 0px;
-font-family: Lato;
+font-family: "Lato", sans-serif;
 font-size: 16px;
 font-weight: 600;
 line-height: 22.4px;
@@ -357,7 +357,7 @@ border: 1px solid #E45302;
     padding: 10px;
     border-radius: 100px;
     background-color:#231815;
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
    font-weight: 600;
    line-height: 22.4px;
@@ -366,7 +366,7 @@ border: 1px solid #E45302;
 }
 
 .item_description p:nth-child(1) {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 25.2px;
@@ -378,7 +378,7 @@ border: 1px solid #E45302;
 
 
 .item_description .item_new-price {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 22px;
 font-weight: 700;
 line-height: 30.8px;
@@ -387,7 +387,7 @@ padding-right:10px;
 }
 
 .item_description .item_old-price {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 22px;
     font-weight: 600;
     line-height: 30.8px;
@@ -396,7 +396,7 @@ padding-right:10px;
 }
 
 .item_price {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 22px;
     font-weight: 700;
     line-height: 30.8px;
@@ -447,7 +447,7 @@ padding-right:10px;
       gap: 8px;
       margin-top:10px;
       opacity: 0px;
-      font-family: Lato;
+      font-family: "Lato", sans-serif;
       font-size: 16px;
       font-weight: 600;
       line-height: 22.4px;
@@ -467,7 +467,7 @@ padding-right:10px;
           padding: 10px;
           border-radius: 100px;
           background-color:#231815;
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 16px;
          font-weight: 600;
          line-height: 22.4px;
@@ -476,7 +476,7 @@ padding-right:10px;
       }
       
       .item_description p:nth-child(1) {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 16px;
           font-weight: 700;
           line-height: 25.2px;
@@ -488,7 +488,7 @@ padding-right:10px;
       
       
       .item_description .item_new-price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
       font-size: 20px;
       font-weight: 700;
       line-height: 30.8px;
@@ -497,7 +497,7 @@ padding-right:10px;
       }
       
       .item_description .item_old-price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 20px;
           font-weight: 600;
           line-height: 30.8px;
@@ -506,7 +506,7 @@ padding-right:10px;
       }
       
       .item_price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 20px;
           font-weight: 700;
           line-height: 30.8px;
@@ -560,7 +560,7 @@ padding-right:10px;
       gap: 8px;
       margin-top:10px;
       opacity: 0px;
-      font-family: Lato;
+      font-family: "Lato", sans-serif;
       font-size: 16px;
       font-weight: 600;
       line-height: 22.4px;
@@ -580,7 +580,7 @@ padding-right:10px;
           padding: 10px;
           border-radius: 100px;
           background-color:#231815;
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 16px;
          font-weight: 600;
          line-height: 22.4px;
@@ -589,7 +589,7 @@ padding-right:10px;
       }
       
       .item_description p:nth-child(1) {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 16px;
           font-weight: 700;
           line-height: 25.2px;
@@ -601,7 +601,7 @@ padding-right:10px;
       
       
       .item_description .item_new-price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
       font-size: 18px;
       font-weight: 700;
       line-height: 30.8px;
@@ -610,7 +610,7 @@ padding-right:10px;
       }
       
       .item_description .item_old-price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 18px;
           font-weight: 600;
           line-height: 30.8px;
@@ -619,7 +619,7 @@ padding-right:10px;
       }
       
       .item_price {
-          font-family: Lato;
+          font-family: "Lato", sans-serif;
           font-size: 18px;
           font-weight: 700;
           line-height: 30.8px;
@@ -677,7 +677,7 @@ padding-right:10px;
     gap: 8px;
     margin-top:10px;
     opacity: 0px;
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 13px;
     font-weight: 600;
     line-height: 17.4px;
@@ -697,7 +697,7 @@ padding-right:10px;
         padding: 7px;
         border-radius: 100px;
         background-color:#231815;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-size: 13px;
        font-weight: 600;
        line-height: 22.4px;
@@ -706,7 +706,7 @@ padding-right:10px;
     }
     
     .item_description p:nth-child(1) {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-size: 14px;
         font-weight: 700;
         line-height: 25.2px;
@@ -718,7 +718,7 @@ padding-right:10px;
     
     
     .item_description .item_new-price {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
     font-size: 13px;
     font-weight: 700;
     line-height: 30.8px;
@@ -727,7 +727,7 @@ padding-right:10px;
     }
     
     .item_description .item_old-price {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-size: 13px;
         font-weight: 600;
         line-height: 30.8px;
@@ -736,7 +736,7 @@ padding-right:10px;
     }
     
     .item_price {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-size: 13px;
         font-weight: 700;
         line-height: 30.8px;
@@ -787,7 +787,7 @@ padding-right:10px;
     gap: 8px;
     margin-top:10px;
     opacity: 0px;
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     font-size: 13px;
     font-weight: 600;
     line-height: 17.4px;
@@ -916,7 +916,7 @@ footer {
 }
 
 .footer_container--block1 p {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 20.8px;
@@ -942,7 +942,7 @@ footer {
 }
 
 .block2--info h4 {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 18px;
@@ -951,7 +951,7 @@ color:#FFFFFF;
 }
 
 .block2--info p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -966,7 +966,7 @@ color:#F5F5F5;
 }
 
 .block2--info2 h4 {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 18px;
@@ -975,7 +975,7 @@ color:#FFFFFF;
 }
 
 .block2--info2 p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -989,7 +989,7 @@ color:#F5F5F5;
     gap: 30px;
 }
 .footer_container--block3 h4 {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 18px;
@@ -999,7 +999,7 @@ color:#FFFFFF;
 
 
 .footer_container--block3 p {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -1015,7 +1015,7 @@ color:#F5F5F5;
 }
 
 .block4--garantee p {
- font-family: Lato;
+ font-family: "Lato", sans-serif;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -1081,14 +1081,14 @@ color:#808080;
 
     .footer_container--900-info h4 {
         font-size: 16px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 18px;
         color:#FFFFFF;
     }
 
     .info-block1--900 .info-block1--900_white-text {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 18px;
         color:#FFFFFF;
@@ -1099,7 +1099,7 @@ color:#808080;
 
 
  .info-block1--900_gray-text {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-size: 16px;
         font-weight: 400;
         line-height: 22.4px;
@@ -1110,7 +1110,7 @@ color:#808080;
 
 
     .info_block2--900 p {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 18px;
         color:#FFFFFF;
@@ -1119,7 +1119,7 @@ color:#808080;
     }
 
     .info_block3--900 p {
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 18px;
         color:#FFFFFF;
@@ -1150,7 +1150,7 @@ color:#808080;
     }
 
     .privacy p {
-        font-family: Roboto;
+        font-family: "Roboto", sans-serif;
         font-size: 14px;
         font-weight: 400;
         line-height: 20.8px;
@@ -1212,7 +1212,7 @@ color:#808080;
 
     .footer_container--390-info h4 {
         font-size: 14px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 16px;
         color:#FFFFFF;
@@ -1220,7 +1220,7 @@ color:#808080;
 
     .footer_container--390-info--block1 p {
         font-size: 12px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 16px;
         color:#FFFFFF;
@@ -1229,7 +1229,7 @@ color:#808080;
 
     .footer_container--390-info--block2 p {
         font-size: 12px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 16px;
         color:#FFFFFF;
@@ -1238,7 +1238,7 @@ color:#808080;
 
     .footer_container--390-info--block3 p {
         font-size: 12px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 16px;
         color:#FFFFFF;
@@ -1247,7 +1247,7 @@ color:#808080;
 
     .footer_container--390-info--block4 p {
         font-size: 12px;
-        font-family: Lato;
+        font-family: "Lato", sans-serif;
         font-weight: 700;
         line-height: 16px;
         color:#808080;
@@ -1262,7 +1262,7 @@ color:#808080;
     }
 
     .garantee-390 p {
-        font-family: Roboto;
+        font-family: "Roboto", sans-serif;
        font-size: 12px;
        font-weight: 400;
        line-height: 20.8px;
