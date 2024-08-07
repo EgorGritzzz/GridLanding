@@ -1220,6 +1220,9 @@ color:#808080;
     .footer_container--900-info {
         gap: 10px;
     }
+
+     footer {
+         margin-top: 20px;
  }
    
 
